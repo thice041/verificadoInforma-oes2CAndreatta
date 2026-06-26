@@ -17,5 +17,29 @@ min-height: 100vh;
 
     ,cabecalho{
         color: aqua;
-{
-{
+padding: 15px 25px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: aqua; 
+}
+
+.cartao{
+
+width: 260px;
+height: 260px;
+{ 
+    
+.cartao-imagen}
+
+ width: 100%;
+ {
+.cartao-interno}
+
+position: relative;
+
+.carto-frente,  .cartao-vero{}
+
+
+
+
